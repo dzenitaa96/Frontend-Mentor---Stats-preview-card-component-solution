@@ -22,7 +22,8 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-
+Browser view: screenshots/Browser view.png
+Mobile view: screenshots/Mobile view.png
 
 ### Links
 

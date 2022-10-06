@@ -27,8 +27,8 @@ Mobile view: screenshots/Mobile view.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-xjAty9g40I)
+- Live Site URL: [Add live site URL here](https://dzenitaa96.github.io/Frontend-Mentor---Stats-preview-card-component-solution/)
 
 
 ### Built with
